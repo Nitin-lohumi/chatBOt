@@ -1,5 +1,7 @@
+pip>=23.0
 setuptools>=65.0
 wheel
+
 gunicorn
 numpy>=1.23.0
 Flask==2.0.1
