@@ -1,0 +1,16 @@
+[
+    {
+        "keywords": ["appointment", "book", "doctor"],
+        "answer": "To book an appointment, please provide your name, age, and symptoms. We will connect you to a doctor."
+    },
+    {
+        "keywords": ["medicine", "prescription"],
+        "answer": "For medicine or prescription queries, please describe your symptoms or upload your previous prescription."
+    },
+    {
+        "keywords": ["clinic", "location"],
+        "answer": "Our telemedicine service is available online. If you need to visit a clinic, we can suggest the nearest one."
+    }
+    
+]
+

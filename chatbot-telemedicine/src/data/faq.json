@@ -1,0 +1,32 @@
+{
+  "faq": [
+    {
+      "question": "What is telemedicine?",
+      "answer": "Telemedicine is the use of technology to provide medical care and consultation remotely."
+    },
+    {
+      "question": "How can I schedule an appointment?",
+      "answer": "You can schedule an appointment by contacting our telemedicine service through the chatbot or by calling our support line."
+    },
+    {
+      "question": "What types of services are offered?",
+      "answer": "We offer a variety of services including virtual consultations, follow-up appointments, and health information resources."
+    },
+    {
+      "question": "Is telemedicine safe?",
+      "answer": "Yes, telemedicine is safe and secure. We use encrypted communication to protect your personal health information."
+    },
+    {
+      "question": "What do I need for a telemedicine appointment?",
+      "answer": "You will need a device with internet access, a webcam, and a quiet space for your consultation."
+    },
+    {
+      "question": "Can I get prescriptions through telemedicine?",
+      "answer": "Yes, our healthcare providers can prescribe medications during your telemedicine appointment if necessary."
+    },
+    {
+      "question": "What if I have technical issues during my appointment?",
+      "answer": "If you experience technical issues, please contact our support team for assistance."
+    }
+  ]
+}
