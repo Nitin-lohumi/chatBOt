@@ -1,7 +1,7 @@
 # Main entry point for the chatbot web API (src/main.py)
 
 from flask import Flask, request, jsonify
-from chatbot.bot import get_bot_response  # Import chatbot logic from chatbot/bot.py
+from src.chatbot.bot import get_bot_response  # Import chatbot logic from chatbot/bot.py
 
 app = Flask(__name__)
 
