@@ -1,7 +1,7 @@
 # Core chatbot logic (src/chatbot/bot.py)
 
 from .intents import get_intent  # Import intent detection from chatbot/intents.py
-from services.telemedicine import handle_telemedicine_intent  # Import telemedicine handler
+from ..services.telemedicine import handle_telemedicine_intent # Import telemedicine handler
 
 def get_bot_response(message):
     # Determine user intent and generate appropriate response
